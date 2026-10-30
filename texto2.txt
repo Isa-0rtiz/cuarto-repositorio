@@ -1,3 +1,4 @@
 realizando pruebas de comando aprenditos del curso.
+Observaciones
 tiempo realizado : 
 total de comandos aprendidos: 
